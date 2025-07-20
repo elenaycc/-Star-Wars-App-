@@ -1,4 +1,4 @@
-# Star Wars Starships App
+# Star Wars App
 
 A React application that lists Star Wars starships using the [Star Wars API (SWAPI)](https://swapi.dev/).  
 Users can search starships by name or model, view detailed information for each starship, and load more results dynamically.
@@ -13,6 +13,6 @@ Users can search starships by name or model, view detailed information for each 
 
 ---
 
-## [View Live Demo](https://your-live-demo-link.com)
+## [View Live Demo](https://stellar-frangollo-ca21c0.netlify.app)
 
 ---
