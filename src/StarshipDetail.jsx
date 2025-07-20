@@ -35,7 +35,7 @@ export default function StarshipDetail() {
       <p><strong>Crew:</strong> {starship.crew}</p>
       <p><strong>Cargo Capacity:</strong> {starship.cargo_capacity}</p>
 
-      <Link to="/" style={{ marginTop: '20px', display: 'inline-block' }}>
+      <Link className='link' to="/" style={{ marginTop: '20px', display: 'inline-block' }}>
         &larr; Back to Home
       </Link>
     </div>

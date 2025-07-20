@@ -6,15 +6,6 @@ body {
   padding: 0;
 }
 
-a {
-  color: #61dafb;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #21a1f1;
-}
-
 button {
   cursor: pointer;
   background-color: #021f74d9;
@@ -40,4 +31,10 @@ input {
 
 input::placeholder {
   color: #aaa;
+}
+.link{
+    color:#021f74d9;
+}
+.link:hover{
+    color:#03320d;
 }
